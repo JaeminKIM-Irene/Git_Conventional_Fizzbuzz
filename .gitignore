@@ -135,4 +135,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# jupyter
+jupyter_checkpoints/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,pythonvanilla,visualstudiocode,vim
